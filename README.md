@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋 my name is Ryan Moore.
+
+## I'm currently a student learning Full Stack Web Development.
+
+### I am passionate about starting a new career as a Software Engineer.
+
+#### You can reach me at: moorek11c@gmail.com.
 
 <!--
 **moorek11c/moorek11c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
