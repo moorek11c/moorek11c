@@ -13,7 +13,7 @@ I recently completed my final project for the **Triple Ten Fullstack Software En
 
 ##Projects:
 
-[Deployed Application frontend](https://checkwtwtoday.crabdance.com/)
+[Full-Stack App](https://checkwtwtoday.crabdance.com/)
 
 ## Languages and Tools:
 
