@@ -11,9 +11,9 @@ I recently completed my final project for the **Triple Ten Fullstack Software En
 - **Cloud & Deployment**: Microsoft Azure, AWS, Google Cloud
 
 
-#Projects:
+## Projects:
 
-[Full-Stack App](https://checkwtwtoday.crabdance.com/)
+[what to wear fullstack](https://checkwtwtoday.crabdance.com/)
 
 ## Languages and Tools:
 
