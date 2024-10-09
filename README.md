@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer | Nevada, USA
 
-Recently completed the **Triple Ten Fullstack Software Engineer** program and excited to delve deeper into the tech world! After years in construction, a career switch led to a passion for technology and development. Continuously learning new technologies and building innovative solutions fuels my drive.
+Recently completed the Triple Ten Fullstack Software Engineer program and excited to delve deeper into the tech world! After years in construction, a desire to pursue a long-held passion for technology and development prompted a career transition. Continuously learning new technologies and building innovative solutions fuels my drive.
 
 ## Technologies
 
