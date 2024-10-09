@@ -2,20 +2,21 @@
 
 ### Full-Stack Software Engineer | Nevada, USA
 
-I recently completed my final project for the **Triple Ten Fullstack Software Engineer** program, and I'm excited to dive deeper into the world of tech! After years in construction, I decided to switch careers and pursue my passion for technology and development. Learning new tech and building innovative solutions energizes me.
+Recently completed the **Triple Ten Fullstack Software Engineer** program and excited to delve deeper into the tech world! After years in construction, a career switch led to a passion for technology and development. Continuously learning new technologies and building innovative solutions fuels my drive.
 
-## Technologies I work with:
-- **Frontend**: HTML5, CSS3, Flexbox, Grid Layout, BEM, Media Queries, JavaScript/JSX, React, React Hooks
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose, API development
-- **Other Skills**: Git, GitHub, Figma, Form Validation, Object-Oriented Programming (OOP), Webpack, NPM
-- **Cloud & Deployment**: Microsoft Azure, AWS, Google Cloud
+## Technologies
 
+**Frontend:** HTML5, CSS3, Flexbox, Grid Layout, BEM, Media Queries, JavaScript/JSX, React, React Hooks  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, API Development  
+**Other Skills:** Git, GitHub, Figma, Form Validation, Object-Oriented Programming (OOP), Webpack, NPM  
+**Cloud & Deployment:** Microsoft Azure, AWS, Google Cloud  
 
-## Projects:
+## Projects
 
-[what to wear fullstack](https://checkwtwtoday.crabdance.com/)
+- [What to Wear - Full Stack App](https://checkwtwtoday.crabdance.com/)  
+  A responsive application that suggests clothing based on real-time weather data, allowing users to create accounts, upload clothing items, and receive personalized recommendations.
 
-## Languages and Tools:
+## Languages and Tools
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel)
@@ -45,7 +46,8 @@ I recently completed my final project for the **Triple Ten Fullstack Software En
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
 
-## What I'm passionate about:
+## What I'm Passionate About
+
 - Exploring new technologies and staying updated with the latest trends
 - Building responsive and user-friendly applications
 - Cloud deployment and backend development
