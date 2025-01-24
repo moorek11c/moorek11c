@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **I put Ranch on my speghetti**
 
-- 💻 Projects - Aroundtheus[https://moorek11c.github.io/se_project_aroundtheus/]
-                WhatToWear[https://checkwtwtoday.crabdance.com/]
-                NewsSearchApp[https://moorek11c.github.io/News_App_frontend/]
+- 💻 Projects - [Aroundtheus](https://moorek11c.github.io/se_project_aroundtheus/)
+                [WhatToWear](https://checkwtwtoday.crabdance.com/)
+                [NewsSearchApp](https://moorek11c.github.io/News_App_frontend/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
