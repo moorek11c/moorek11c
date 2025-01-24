@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moorek11c&label=Profile%20views&color=0e75b6&style=flat" alt="moorek11c" /> </p>
 
-- 🔭 I’m currently working on Learning some [Cybersecurity](https://tryhackme.com/r/p/moorek.ryan) Because Knowlege is power
+- 🔭 I’m currently working on Learning some [Cybersecurity](https://tryhackme.com/r/p/moorek.ryan) as well as studying C++.
 
 - 🌱 I’m currently learning **Pentesting Frameworks**
 
