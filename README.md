@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **I put Ranch on my speghetti**
 
+- 💻 Projects - Aroundtheus[https://moorek11c.github.io/se_project_aroundtheus/]
+                WhatToWear[https://checkwtwtoday.crabdance.com/]
+                NewsSearchApp[https://moorek11c.github.io/News_App_frontend/]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moorekryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moorekryan/" height="30" width="40" /></a>
