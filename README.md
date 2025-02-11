@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **Connections**
 
-- 💬 Ask me about **What I like to do for fun*
+- 💬 Ask me about **What I like to do for fun**
 
 - 📫 How to reach me **moorek11c@gmail.com**
 
