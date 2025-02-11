@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moorek11c&label=Profile%20views&color=0e75b6&style=flat" alt="moorek11c" /> </p>
 
-- 🔭 I’m currently working on Learning some [Cybersecurity](https://tryhackme.com/r/p/moorek.ryan) as well as studying C++.
+- 🔭 I’m currently working on an IOs App for hunters. More information on this soon
 
-- 🌱 I’m currently learning **Pentesting Frameworks**
+- 🌱 I’m currently learning **TensorFlow**
 
-- 🤝 I’m looking for help with **Finding a Job**
+- 🤝 I’m looking for **Connections**
 
-- 💬 Ask me about **Why i started my career later in life**
+- 💬 Ask me about **What I like to do for fun*
 
 - 📫 How to reach me **moorek11c@gmail.com**
 
@@ -18,6 +18,7 @@
 - 💻 Projects - [Aroundtheus](https://moorek11c.github.io/se_project_aroundtheus/)
                 [WhatToWear](https://checkwtwtoday.crabdance.com/)
                 [NewsSearchApp](https://moorek11c.github.io/News_App_frontend/)
+                [DiabloExcavation](https://Diabloexcavation.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
